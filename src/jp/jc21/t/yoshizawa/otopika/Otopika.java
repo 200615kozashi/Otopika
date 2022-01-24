@@ -1,4 +1,4 @@
-/**
+OtoSample01.java/**
  * 
  */
 package jp.jc21.t.yoshizawa.otopika;
