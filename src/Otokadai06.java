@@ -32,12 +32,10 @@ public class Otokadai06  {
 			oto2.sleep();
 			oto2.sleep();
 			oto2.sleep();
-
 			oto2.lightYellow();
 			oto2.sleep();
 			oto2.sleep();
 			oto2.sleep();
-
 			oto2.lightRed();
 			oto2.sleep();
 			oto1.lightGreen();
@@ -51,12 +49,10 @@ public class Otokadai06  {
 			oto1.sleep();
 			oto1.sleep();
 			oto1.sleep();
-
 			oto1.lightYellow();
 			oto1.sleep();
 			oto1.sleep();
 			oto1.sleep();
-
 			oto1.lightRed();
 			oto1.sleep();
 		}
